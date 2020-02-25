@@ -1,0 +1,16 @@
+C:\Learning\Codewars\ConsoleApp1\UnitTestProject1\obj\Debug\netcoreapp2.2\UnitTestProject1.csprojAssemblyReference.cache
+C:\Learning\Codewars\ConsoleApp1\UnitTestProject1\obj\Debug\netcoreapp2.2\UnitTestProject1.AssemblyInfoInputs.cache
+C:\Learning\Codewars\ConsoleApp1\UnitTestProject1\obj\Debug\netcoreapp2.2\UnitTestProject1.AssemblyInfo.cs
+C:\Learning\Codewars\ConsoleApp1\UnitTestProject1\obj\Debug\netcoreapp2.2\UnitTestProject1.dll
+C:\Learning\Codewars\ConsoleApp1\UnitTestProject1\obj\Debug\netcoreapp2.2\UnitTestProject1.pdb
+C:\Learning\Codewars\ConsoleApp1\UnitTestProject1\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Learning\Codewars\ConsoleApp1\UnitTestProject1\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Learning\Codewars\ConsoleApp1\UnitTestProject1\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Learning\Codewars\ConsoleApp1\UnitTestProject1\bin\Debug\netcoreapp2.2\UnitTestProject1.deps.json
+C:\Learning\Codewars\ConsoleApp1\UnitTestProject1\bin\Debug\netcoreapp2.2\UnitTestProject1.runtimeconfig.json
+C:\Learning\Codewars\ConsoleApp1\UnitTestProject1\bin\Debug\netcoreapp2.2\UnitTestProject1.runtimeconfig.dev.json
+C:\Learning\Codewars\ConsoleApp1\UnitTestProject1\bin\Debug\netcoreapp2.2\UnitTestProject1.dll
+C:\Learning\Codewars\ConsoleApp1\UnitTestProject1\bin\Debug\netcoreapp2.2\UnitTestProject1.pdb
+C:\Learning\Codewars\ConsoleApp1\UnitTestProject1\bin\Debug\netcoreapp2.2\ClassLibrary1.dll
+C:\Learning\Codewars\ConsoleApp1\UnitTestProject1\bin\Debug\netcoreapp2.2\ClassLibrary1.pdb
+C:\Learning\Codewars\ConsoleApp1\UnitTestProject1\obj\Debug\netcoreapp2.2\UnitTestProject1.csproj.CopyComplete
